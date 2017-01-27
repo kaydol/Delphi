@@ -9,6 +9,6 @@ Feautures :
 * Sound effects for all events
 
 Known issues :
-* Falling figure sometimes can goes through static blocks [can be noticed on fast speed]
+* Falling figure sometimes can go through static blocks [can be noticed on fast speed]
 
 2014 (c) kaydol
